@@ -1,0 +1,124 @@
+┌─[robo@robo]─[~/Desktop/C(lab)]
+└──╼ $gcc 8.c -o 8.o
+┌─[robo@robo]─[~/Desktop/C(lab)]
+└──╼ $./8.o
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   4578
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     1
+
+The conversion of 4578.000000 to m is 4578000.000000. 
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   4844848
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     2
+
+The conversion of 4844848.000000 to km is 4844.848000.
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   444555
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     3
+
+The conversion of 444555.000000 to cm is 44455500.000000.
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   4484848
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     4
+
+The conversion of 4484848.000000 to inches is 53818176.000000.
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   75458
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     5
+
+The conversion of 75458.000000 to feet is 6288.166667.
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   448484
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     6
+
+The conversion of 448484.000000 to m is 448484000.000000. 
+
+The conversion of 448484.000000 to km is 448.484000.
+
+The conversion of 448484.000000 to cm is 44848400.000000.
+
+The conversion of 448484.000000 to inches is 5381808.000000.
+
+The conversion of 448484.000000 to feet is 37373.666667.
+_____________________________________________________________
+ 
+ enter the number which you want to convert :   445
+
+To what unit do you want  to convert the number to ? 
+1] km to m,
+2] m to km,
+3] M to cm, 
+4] feet to inches,
+5] inches to feet,
+6] All of the above,
+7] Exit 
+Choose the unit you want to convert to by entering the number of your choice.
+Enter your choice :     7
+
+Bye!!!
